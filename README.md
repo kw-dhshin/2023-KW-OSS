@@ -8,7 +8,7 @@
 | 1 | [Random Play List](https://github.com/dh4m/RandomPlayList) | 박찬영, 유현준, 함동균 |
 | 2 | [학습 매니저 사이트](https://github.com/JonyeokLEE/KW_OSS_Team2) | 김희주, 박제영, 이종혁 |
 | 3 | [-](https://github.com/vlvksbdof1234/open_source_project_team3) | 박정수, 서민지, 서유상, 이태웅 |
-| 4 | [-](https://github.com/garoo98/kw-OSS-proj-4) | 김현중, 이성오, 조민제 |
+| 4 | [개인 포트폴리오 저장 사이트](https://github.com/garoo98/kw-OSS-proj-4) | 김현중, 이성오, 조민제 |
 | 5 | [-](https://github.com/ripplelover/OSS_project) | 김동규, 김민지, 배정우 |
 | 6 | [기타 동아리 웹 페이지](https://github.com/zeroad00/Sixsound_Web) | 김재현, 손민, 윤영로 |
 | 7 | [Jaeyong's Love Finder](https://github.com/evejaeyong/OSS_Team_Project) | 김재용, 김태관, 양서은 |
