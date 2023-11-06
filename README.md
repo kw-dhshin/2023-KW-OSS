@@ -16,7 +16,7 @@
 | 9 | [-](https://github.com/hdh3665/opensource_project) | 김예원, 박현웅, 홍동현 |
 | 10 | [-](https://github.com/Nagnero/Finance-Trading-Assistance) | 문원주, 방채경, 연선우, 전기헌 |
 | 11 | [RNN기반의 주식 플로우 차트 분석 및 딥웹 호스팅](https://github.com/kang-tw/opensource) | 강태웅, 박상원, 방호영 |
-| 12 | [-](https://github.com/HyuckJoon0415/asdf) | 권혁준, 박준호, 임정현 |
+| 12 | [HTML기반 WEB Blog](https://github.com/HyuckJoon0415/asdf) | 권혁준, 박준호, 임정현 |
 | 13 | [광운 캘린더](https://github.com/Chunsaeng20/oss2023-team13) | 김범준, 이홍일, 정해성, 최성윤 |
 | 14 | [-](https://github.com/swjsh19/OSS_Project) | 이규태, 이호윤, 정성현 |
 | 15 | [-](https://github.com/wo0oo/OpenSW_15) | 박철준, 이홍섭, 정우성 |
